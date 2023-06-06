@@ -1,5 +1,5 @@
 # Подготовка к презентации
-1. Скачать репозиторий по адресу
+1. Скачать репозиторий `git clone https://github.com/UsenkoKonstantinVL/vscode-debug-tutorial.git`
 2. Собрать образ, запустив команду `./build.sh`
 3. Установить в VS Code плагин для работы с **ROS'ом** и **DOCKER'ом**. 
 
