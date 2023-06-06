@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="vscode_debug_tutorial" type="chatter.py"   name="chatter"    output="screen" 	respawn="true"/>
+</launch>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>vscode_debug_tutorial</name>
+  <version>0.0.0</version>
+  <description>Chatter and listener nodes. Uses for showing debugging ROS's nodes with VS Code.</description>
+  <maintainer email="konstantin.usenko@zyfra.com">Konstantin Usenko</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+</package>
